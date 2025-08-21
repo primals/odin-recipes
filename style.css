@@ -1,0 +1,75 @@
+* {
+   box-sizing: border-box; 
+   background-color: rgb(79, 76, 76);
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.headerContainer {
+    color: yellow;
+    margin: 30px;
+    padding: 15px;
+    border-bottom: 8px double darkmagenta;
+}
+
+.recipeContainer {
+    margin: 30px;
+    padding-left: 15px;
+    border-right: 4px solid darkmagenta;
+    width: 250px;
+    height:  1000px;
+}
+
+.chiliContainer {
+    margin: 30px;
+    padding-left: 15px;
+    border-top: 2px dotted yellow;
+    border-right: 2px dotted yellow;
+}
+
+.chiliHContainer {
+    color: greenyellow;
+    margin: 30px;
+    padding: 15px;
+    border-bottom: 2px dashed yellow;
+}
+
+.chiliImage {
+    margin-left: 45px;
+}
+
+.brocHeaderContainer {
+    color: bisque;
+    margin: 30px;
+    padding: 15px;
+    border-bottom: 2px dashed black;
+}
+
+.brocImageContainer {
+    margin-left: 45px;
+}
+
+.brocContainer {
+    color: bisque;
+    margin-left: 30px;
+    padding-left: 15px;
+    width: 600px;
+}
+
+.brocDescriptionContainer{
+    border: 2px solid black;
+    margin-top: 6px;
+    padding-left: 15px;
+
+}
+
+.brocIngredientContainer{
+    border: 2px solid black;
+    margin-top: 6px;
+    padding-left: 15px;
+}
+
+.brocStepsContainer {
+    border: 2px solid black;
+    margin-top: 6px;
+    padding-left: 15px;
+}
